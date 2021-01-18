@@ -1,64 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on codex</title>
+    <title>Tags on FIPE - CDRT</title>
     <link>https://fipe-cdrt.github.io/tags/</link>
-    <description>Recent content in Tags on codex</description>
+    <description>Recent content in Tags on FIPE - CDRT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2021 15:24:54 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://fipe-cdrt.github.io/tags/css/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>CAGED</title>
+      <link>https://fipe-cdrt.github.io/tags/caged/</link>
+      <pubDate>Fri, 08 Jan 2021 15:24:54 -0300</pubDate>
       
-      <guid>https://fipe-cdrt.github.io/tags/css/</guid>
+      <guid>https://fipe-cdrt.github.io/tags/caged/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://fipe-cdrt.github.io/tags/html/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Mercado de Trabalho</title>
+      <link>https://fipe-cdrt.github.io/tags/mercado-de-trabalho/</link>
+      <pubDate>Fri, 08 Jan 2021 15:24:54 -0300</pubDate>
       
-      <guid>https://fipe-cdrt.github.io/tags/html/</guid>
+      <guid>https://fipe-cdrt.github.io/tags/mercado-de-trabalho/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://fipe-cdrt.github.io/tags/markdown/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>PNADC</title>
+      <link>https://fipe-cdrt.github.io/tags/pnadc/</link>
+      <pubDate>Fri, 08 Jan 2021 15:24:54 -0300</pubDate>
       
-      <guid>https://fipe-cdrt.github.io/tags/markdown/</guid>
+      <guid>https://fipe-cdrt.github.io/tags/pnadc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>math</title>
-      <link>https://fipe-cdrt.github.io/tags/math/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <title>RAIS</title>
+      <link>https://fipe-cdrt.github.io/tags/rais/</link>
+      <pubDate>Fri, 08 Jan 2021 15:24:54 -0300</pubDate>
       
-      <guid>https://fipe-cdrt.github.io/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://fipe-cdrt.github.io/tags/themes/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fipe-cdrt.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://fipe-cdrt.github.io/tags/hugo/</link>
-      <pubDate>Thu, 04 Jun 2020 09:19:29 -0400</pubDate>
-      
-      <guid>https://fipe-cdrt.github.io/tags/hugo/</guid>
+      <guid>https://fipe-cdrt.github.io/tags/rais/</guid>
       <description></description>
     </item>
     
