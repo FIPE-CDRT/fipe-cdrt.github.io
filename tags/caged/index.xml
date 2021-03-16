@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CAGED on FIPE - CDRT</title>
+    <title>caged on FIPE - CDRT</title>
     <link>https://fipe-cdrt.github.io/tags/caged/</link>
-    <description>Recent content in CAGED on FIPE - CDRT</description>
+    <description>Recent content in caged on FIPE - CDRT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 08 Jan 2021 15:24:54 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/tags/caged/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Mar 2021 12:16:38 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/tags/caged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relatórios - CAGED</title>
+      <link>https://fipe-cdrt.github.io/conjuntura/relatorios_caged/</link>
+      <pubDate>Tue, 16 Mar 2021 12:16:38 -0300</pubDate>
+      
+      <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_caged/</guid>
+      <description>Relatórios: Cadastro Geral de Empregados e Desempregados Descrição: O Cadastro Geral de Empregados e Desempregados constitui importante fonte de informação do mercado de trabalho de âmbito nacional e de periodicidade mensal. Foi criado como instrumento de acompanhamento e de fiscalização do processo de admissão e de dispensa de trabalhadores regidos pela CLT, com o objetivo de assistir os desempregados e de apoiar medidas contra o desemprego. A partir de 1986, passou a ser utilizado como suporte ao pagamento do seguro-desemprego e, mais recentemente, tornou-se, também, um relevante instrumento à reciclagem profissional e à recolocação do trabalhador no mercado de trabalho.</description>
+    </item>
+    
     <item>
       <title>GUIA TÉCNICO: DADOS DE MERCADO DE TRABALHO</title>
       <link>https://fipe-cdrt.github.io/guias-tecnicos/guia-mercado-de-trabalho/</link>

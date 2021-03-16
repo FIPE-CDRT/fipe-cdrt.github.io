@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pim on FIPE - CDRT</title>
+    <link>https://fipe-cdrt.github.io/tags/pim/</link>
+    <description>Recent content in pim on FIPE - CDRT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 16 Mar 2021 11:51:37 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/tags/pim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relatórios - PIM</title>
+      <link>https://fipe-cdrt.github.io/conjuntura/relatorios_pim/</link>
+      <pubDate>Tue, 16 Mar 2021 11:51:37 -0300</pubDate>
+      
+      <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_pim/</guid>
+      <description>Relatórios: Pesquisa Indústrial Mensal Descrição: A Pesquisa Industrial Mensal Produção Física – Brasil produz indicadores de curto prazo desde a década de 1970 relativos ao comportamento do produto real das indústrias extrativa e de transformação.
+Frequência: Mensal Fonte: IBGE2021 Janeiro2020 DezembroNovembroOutubroSetembroAgosto</description>
+    </item>
+    
+  </channel>
+</rss>
