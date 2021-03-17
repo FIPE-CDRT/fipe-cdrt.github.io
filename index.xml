@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 16 Mar 2021 12:16:38 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Mar 2021 12:24:09 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nota Metodológica: Painel de Desigualdades</title>
+      <link>https://fipe-cdrt.github.io/guias-tecnicos/metodologia-painel-desigualdades/</link>
+      <pubDate>Wed, 17 Mar 2021 12:24:09 -0300</pubDate>
+      
+      <guid>https://fipe-cdrt.github.io/guias-tecnicos/metodologia-painel-desigualdades/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Relatórios - CAGED</title>
       <link>https://fipe-cdrt.github.io/conjuntura/relatorios_caged/</link>
@@ -53,17 +62,6 @@ Frequência: Mensal Fonte: IBGE2021 Janeiro2020 </description>
       <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_pim/</guid>
       <description>Relatórios: Pesquisa Indústrial Mensal Descrição: A Pesquisa Industrial Mensal Produção Física – Brasil produz indicadores de curto prazo desde a década de 1970 relativos ao comportamento do produto real das indústrias extrativa e de transformação.
 Frequência: Mensal Fonte: IBGE2021 Janeiro2020 DezembroNovembroOutubroSetembroAgosto</description>
-    </item>
-    
-    <item>
-      <title>GUIA TÉCNICO: DADOS DE MERCADO DE TRABALHO</title>
-      <link>https://fipe-cdrt.github.io/guias-tecnicos/guia-mercado-de-trabalho/</link>
-      <pubDate>Fri, 08 Jan 2021 15:24:54 -0300</pubDate>
-      
-      <guid>https://fipe-cdrt.github.io/guias-tecnicos/guia-mercado-de-trabalho/</guid>
-      <description>Este guia técnico tem como objetivo apresentar as principais pesquisas sobre mercado de trabalho no Brasil. Ela apresenta brevemente a Pesquisa Nacional por Amostra de Domicílios Contínua, a Relação Anual de Informações Sociais e o Cadastro Geral de Empregados e Desempregados e conclui com alguns comentários finais.
-Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua) Características gerais da pesquisa
-​ A PNAD Contínua é uma pesquisa amostral realizada pelo IBGE desde 2012, criada com o objetivo de modernizar e ampliar a cobertura territorial das estatísticas de emprego no país.</description>
     </item>
     
   </channel>
