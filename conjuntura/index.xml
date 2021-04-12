@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 17:11:29 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/conjuntura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 11:35:25 -0300</lastBuildDate><atom:link href="https://fipe-cdrt.github.io/conjuntura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relatórios - COMEX</title>
+      <link>https://fipe-cdrt.github.io/conjuntura/relatorios_comex/</link>
+      <pubDate>Mon, 12 Apr 2021 11:35:25 -0300</pubDate>
+      
+      <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_comex/</guid>
+      <description>Relatórios: Balança Comercial Descrição: As estatísticas de comércio exterior são produzidas com base em dados extraídos diretamente do SISCOMEXe do Portal Único, sistemas oficiais que gerenciam as exportações e importações brasileiras. O objetivo primário das informações inseridas nos sistemas oficiais é para controle administrativo, aduaneiro e tributário feito pelos órgãos intervenientes do comércio exterior brasileiro.
+Frequência: Mensal Fonte: Ministério da Economia2021 Março2020 </description>
+    </item>
+    
     <item>
       <title>Síntese de Indicadores</title>
       <link>https://fipe-cdrt.github.io/conjuntura/sintese-de-indicadores/</link>
