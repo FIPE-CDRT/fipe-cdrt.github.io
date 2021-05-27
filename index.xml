@@ -27,13 +27,22 @@
     </item>
     
     <item>
+      <title>Relatórios - PNADc</title>
+      <link>https://fipe-cdrt.github.io/conjuntura/relatorios_pnadc/</link>
+      <pubDate>Wed, 17 Mar 2021 12:16:12 -0300</pubDate>
+      
+      <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_pnadc/</guid>
+      <description>Relatórios: Pesquisa Mensal de Serviços Descrição: Visa acompanhar as flutuações trimestrais e a evolução, no curto, médio e longo prazos, da força de trabalho, e outras informações necessárias para o estudo do desenvolvimento socioeconômico do País. Para atender a tais objetivos, a pesquisa foi planejada para produzir indicadores trimestrais sobre a força de trabalho e indicadores anuais sobre temas suplementares permanentes (como trabalho e outras formas de trabalho, cuidados de pessoas e afazeres domésticos, tecnologia da informação e da comunicação etc.</description>
+    </item>
+    
+    <item>
       <title>Relatórios - COMEX</title>
       <link>https://fipe-cdrt.github.io/conjuntura/relatorios_comex/</link>
       <pubDate>Tue, 16 Mar 2021 13:16:18 -0300</pubDate>
       
       <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_comex/</guid>
       <description>Relatórios: Balança Comercial Descrição: As estatísticas de comércio exterior são produzidas com base em dados extraídos diretamente do SISCOMEXe do Portal Único, sistemas oficiais que gerenciam as exportações e importações brasileiras. O objetivo primário das informações inseridas nos sistemas oficiais é para controle administrativo, aduaneiro e tributário feito pelos órgãos intervenientes do comércio exterior brasileiro.
-Frequência: Mensal Fonte: Ministério da Economia2021 MarçoFavereiroJaneiro</description>
+Frequência: Mensal Fonte: Ministério da Economia2021 AbrilMarçoFavereiroJaneiro</description>
     </item>
     
     <item>
@@ -70,7 +79,7 @@ Frequência: Mensal Fonte: Ministério da Economia2021 MarçoFavereiroJaneiro
       
       <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_pms/</guid>
       <description>Relatórios: Pesquisa Mensal de Serviços Descrição: A Pesquisa Mensal de Serviços produz indicadores que permitem acompanhar o comportamento conjuntural do setor de serviços no País, investigando a receita bruta de serviços nas empresas formalmente constituídas, com 20 ou mais pessoas ocupadas, que desempenham como principal atividade um serviço não financeiro, excluídas as áreas de saúde e educação.
-Frequência: Mensal Fonte: IBGE2021 FavereiroJaneiro</description>
+Frequência: Mensal Fonte: IBGE2021 MarçoFavereiroJaneiro</description>
     </item>
     
     <item>
@@ -80,7 +89,7 @@ Frequência: Mensal Fonte: IBGE2021 FavereiroJaneiro</description>
       
       <guid>https://fipe-cdrt.github.io/conjuntura/relatorios_pim/</guid>
       <description>Relatórios: Pesquisa Indústrial Mensal Descrição: A Pesquisa Industrial Mensal Produção Física – Brasil produz indicadores de curto prazo desde a década de 1970 relativos ao comportamento do produto real das indústrias extrativa e de transformação.
-Frequência: Mensal Fonte: IBGE2021 FevereiroJaneiro2020 DezembroNovembroOutubroSetembroAgosto</description>
+Frequência: Mensal Fonte: IBGE2021 MarçoFevereiroJaneiro2020 DezembroNovembroOutubroSetembroAgosto</description>
     </item>
     
   </channel>
